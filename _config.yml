@@ -9,7 +9,7 @@ permalink:        pretty
 title:            YUST
 tagline:          'For YU statistics students'
 description:      '영남대학교 통계학과 학생들에게 정보를 공유하기 위하여 만들었습니다. 유용하고 재밌는 이야기들을 찾아보길 바랍니다.'
-url:              http://ksublee.gitjub.io
+url:              http://ksublee.github.io
 
 author:
   name:           'Kyungsub Lee'
@@ -21,7 +21,7 @@ paginate:         5
 version:          2.0.0
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           
 
 # Gems
 gems: [jekyll-paginate]

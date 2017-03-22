@@ -11,18 +11,18 @@ Cheat Sheet을 우리말(?)로 하면 컨닝 페이퍼쯤 되겠지요.
 
 ### R
 
-[Rstudio 제공 Cheat Sheet 리스](https://www.rstudio.com/resources/cheatsheets/#515)
+[Rstudio 제공 Cheat Sheet 리스트](https://www.rstudio.com/resources/cheatsheets/#515)
 
-Rstudio에서 제공하는 것은 아니지만, 이 중에서 R을 처음 공부하는 학생들에게는 다음의 자료가 좋습니다. 
+Rstudio에서 제공하는 것은 아니지만, 이 중에서 R을 처음 공부하는 학생들에게는 다음의 자료가 좋습니다.    
 [Base R Cheat Sheet](http://github.com/rstudio/cheatsheets/raw/master/source/pdfs/base-r.pdf)
 
-밑에 보면 R Markdown에 대해 한국어로 번역된 자료도 있네요.
+밑에 보면 R Markdown에 대해 한국어로 번역된 자료도 있네요.  
 [R Markdown 한국어](https://www.rstudio.com/wp-content/uploads/2016/02/rmarkdown-cheatsheet-kr.pdf)
 
 
 ### Python
 
-Python 자료인데 다소 긴 면은 있습니다. 필요한 부분을 공부하면 되겠네요.
+Python 자료인데 다소 긴 면은 있습니다. 필요한 부분을 공부하면 되겠네요.  
 [Python Cheat Sheet](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjYm-io8-jSAhXLu7wKHToXD54QFggZMAA&url=https%3A%2F%2Fgithub.com%2Fehmatthes%2Fpcc%2Freleases%2Fdownload%2Fv1.0.0%2Fbeginners_python_cheat_sheet_pcc_all.pdf&usg=AFQjCNEls83Re3m0A3e2s8Dr2L53gYwShQ&sig2=LeEJQd2aj37khaXW5CFEdg&bvm=bv.150120842,d.dGc&cad=rja)
 
 [Python 2.7 Cheat Sheet](http://www.astro.up.pt/~sousasag/Python_For_Astronomers/Python_qr.pdf)

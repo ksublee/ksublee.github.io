@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Cheat Sheet 모음
+categories : IT
+tags : [R, Python, SQL, GitHub]
 ---
 
 Cheat Sheet을 우리말(?)로 하면 컨닝 페이퍼쯤 되겠지요.

@@ -4,7 +4,7 @@
  <title>YUST</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-03-24T15:18:26+09:00</updated>
+ <updated>2017-03-25T09:36:41+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Kyungsub Lee</name>
@@ -20,7 +20,7 @@
    <content type="html">&lt;p&gt;다음은 Windows 환경에서 Jupyter Python Notebook을 만드는 개략적인 과정입니다. &lt;br /&gt;
 Anaconda가 설치되어 있다는 가정 하에, Windows 키+R 키를 통해 실행 창을 연 뒤, jupyter notebook을 입력합니다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://github.com/ksublee/ksublee.github.io/blob/master/_posts/figure/run.png?raw=true&quot; alt=&quot;alt tag&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/ksublee/ksublee.github.io/blob/master/_posts/figure/run.png?raw=true&quot; alt=&quot;Drawing&quot; style=&quot;max-width: 75%; height: auto;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;브라우저를 통해 다음과 같은 화면이 나타납니다. &lt;br /&gt;
 파일 탐색기처럼 폴더 간 이동을 할 수 있습니다. &lt;br /&gt;
@@ -50,9 +50,9 @@ Python 코드를 작성 후 마찬가지로 화살표 버튼을 클릭하면 실
 &lt;p&gt;&lt;img src=&quot;https://github.com/ksublee/ksublee.github.io/blob/master/_posts/figure/code_result.png?raw=true&quot; alt=&quot;Drawing&quot; style=&quot;max-width: 100%; height: auto;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;마지막으로 File -&amp;gt; Rename을 통하여 적정한 이름으로 저장합니다. &lt;br /&gt;
-윗 쪽의 Untitled1을 클릭해도 됩니다.&lt;/p&gt;
+Notebook 윗 쪽의 Untitled을 클릭해도 이름을 변경할 수 있습니다.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://gist.github.com/ihoneymon/652be052a0727ad59601&quot;&gt;더 살펴보기&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://gist.github.com/ihoneymon/652be052a0727ad59601&quot;&gt;Markdown 문서 더 살펴보기&lt;/a&gt;&lt;/p&gt;
 
 </content>
  </entry>

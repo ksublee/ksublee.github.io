@@ -39,7 +39,7 @@ Python 코드를 작성 후 마찬가지로 화살표 버튼을 클릭하면 실
 <img src="https://github.com/ksublee/ksublee.github.io/blob/master/_posts/figure/code_result.png?raw=true" alt="Drawing" style="max-width: 100%; height: auto;"/>
 
 마지막으로 File -> Rename을 통하여 적정한 이름으로 저장합니다.   
-윗 쪽의 Untitled1을 클릭해도 이름을 변경할 수 있습니다.
+Notebook 윗 쪽의 Untitled을 클릭해도 이름을 변경할 수 있습니다.
 
 [Markdown 문서 더 살펴보기](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 

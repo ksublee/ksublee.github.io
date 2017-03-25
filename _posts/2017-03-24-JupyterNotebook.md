@@ -8,7 +8,7 @@ tags: [Python, Markdown]
 다음은 Windows 환경에서 Jupyter Python Notebook을 만드는 개략적인 과정입니다.   
 Anaconda가 설치되어 있다는 가정 하에, Windows 키+R 키를 통해 실행 창을 연 뒤, jupyter notebook을 입력합니다.
 
-![alt tag](https://github.com/ksublee/ksublee.github.io/blob/master/_posts/figure/run.png?raw=true)
+<img src="https://github.com/ksublee/ksublee.github.io/blob/master/_posts/figure/run.png?raw=true" alt="Drawing" style="max-width: 75%; height: auto;"/>
 
 브라우저를 통해 다음과 같은 화면이 나타납니다.   
 파일 탐색기처럼 폴더 간 이동을 할 수 있습니다.   
@@ -39,9 +39,9 @@ Python 코드를 작성 후 마찬가지로 화살표 버튼을 클릭하면 실
 <img src="https://github.com/ksublee/ksublee.github.io/blob/master/_posts/figure/code_result.png?raw=true" alt="Drawing" style="max-width: 100%; height: auto;"/>
 
 마지막으로 File -> Rename을 통하여 적정한 이름으로 저장합니다.   
-윗 쪽의 Untitled1을 클릭해도 됩니다.
+윗 쪽의 Untitled1을 클릭해도 이름을 변경할 수 있습니다.
 
-[더 살펴보기](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+[Markdown 문서 더 살펴보기](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 책 소개 - 천재들의 주사위(The Lady Tasting Tea)
-categories : 통계와 확률
+categories : 통계/확률
 tags: [통계, 확률, 책]
 ---
 

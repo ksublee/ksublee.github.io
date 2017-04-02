@@ -1,0 +1,34 @@
+---
+layout: post
+title: 책 소개 - 천재들의 주사위(The Lady Tasting Tea)
+categories : 통계와 확률
+tags: [통계, 확률, 책]
+---
+
+![alt tag](http://pds27.egloos.com/pds/201305/21/67/e0075567_519ad4fa7c96f.jpeg)
+
+이 책은 David Salsburg의 The Lady Tasting Tea라는 책의 번역본입니다.
+"통계학의 피카소는 누구일까"라는 제목으로도 다시 출판되었다고 합니다.
+통계학을 공부하는 학생이라면 누구나 한 번쯤 읽어볼만 한 책으로, 사실 제가 예전에 1학년 과목에서 추천한 적이 있습니다.
+하지만 사실 통계학과 1학년보다는 3-4학년쯤 되어서 다시 돌아본다는 느낌으로 정독을 하여도 좋습니다.
+일반인도 읽을 수 있도록 쓰여 있지만 다루는 내용은 통계학 전공자들도 곰곰히 생각하여 읽어보게 되는 심도 있는 내용을 다룹니다.
+
+번역서의 제목도 고심 끝에 지었을지 모르겠지만, 원제인 "The Lady Tasting Tea"는 정말 잘 지어진 제목입니다.
+
+근대 통계학의 할아버지 격인 Fisher는 영국인으로 아마 홍차를 즐겨 마셨을 것입니다. (다음은 Fisher의 소싯적 모습)
+
+![alt tag](https://upload.wikimedia.org/wikipedia/commons/a/aa/Youngronaldfisher2.JPG)
+
+여느 때처럼 티타임을 통해 동료들과 차를 마시고 있는데 그 중의 한 분이 홍차의 제조 과정에 따라 달라지는 맛을 구분할 수 있다고 주장합니다.
+즉, 홍차를 먼저 따르고 우유를 나중에 넣느냐, 혹은 우유를 먼저 따르고 홍차를 나중에 넣느냐에 따라 맛이 달라지며 자신은 이를 구별할 수 있다는 것이지요.
+이분은 같이 일하던 과학자 Muriel Bristol 박사로 다음 사진이 이 분의 사진으로 추정됩니다.
+
+![alt tag](https://www.uvm.edu/~dhowell/StatPages/Chi-Square-Folder/MurielBristol.png)
+
+어쨌든, Fisher는 그 말을 듣자 과학적 검정을 위해 바로 랜덤 실험 계획을 설계하고 수행하지요. 
+그 과정과 결과는 책에 나와 있으니 확인해 보길 바랍니다.
+
+책에는 Fisher의 이야기 말고도, student t 분포의 "student"이야기나 확률론의 대가 Kolmogorov 등 다양한 학자들의 이야기가 나옵니다.
+우리 학교 도서관에도  비치되어 있으니 아직 읽지 않은 학생들은 꼭 읽어보길 바랍니다.
+
+

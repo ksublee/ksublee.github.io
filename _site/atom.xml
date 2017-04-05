@@ -4,7 +4,7 @@
  <title>YUST</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-04-02T10:48:41+09:00</updated>
+ <updated>2017-04-02T11:01:22+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Kyungsub Lee</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>책 소개 - 천재들의 주사위(The Lady Tasting Tea)</title>
-   <link href="http://localhost:4000/%ED%86%B5%EA%B3%84%EC%99%80/%ED%99%95%EB%A5%A0/2017/04/02/Lady-Tasting-Tea/"/>
+   <link href="http://localhost:4000/%ED%86%B5%EA%B3%84/%ED%99%95%EB%A5%A0/2017/04/02/Lady-Tasting-Tea/"/>
    <updated>2017-04-02T00:00:00+09:00</updated>
-   <id>http://localhost:4000/%ED%86%B5%EA%B3%84%EC%99%80/%ED%99%95%EB%A5%A0/2017/04/02/Lady-Tasting-Tea</id>
+   <id>http://localhost:4000/%ED%86%B5%EA%B3%84/%ED%99%95%EB%A5%A0/2017/04/02/Lady-Tasting-Tea</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://pds27.egloos.com/pds/201305/21/67/e0075567_519ad4fa7c96f.jpeg&quot; alt=&quot;alt tag&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;이 책은 David Salsburg의 The Lady Tasting Tea라는 책의 번역본입니다.

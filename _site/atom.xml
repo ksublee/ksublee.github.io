@@ -4,13 +4,90 @@
  <title>YUST</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-04-02T11:01:22+09:00</updated>
+ <updated>2017-04-12T11:32:22+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Kyungsub Lee</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>R noteboook을 이용한 블로그</title>
+   <link href="http://localhost:4000/it/2017/04/12/R-notebook-blog/"/>
+   <updated>2017-04-12T00:00:00+09:00</updated>
+   <id>http://localhost:4000/it/2017/04/12/R-notebook-blog</id>
+   <content type="html">&lt;p&gt;Notebook 형식의 장점은 작성한 notebook을 웹페이지 등에 쉽게 연동하여 띄울 수 있다는 점입니다.&lt;/p&gt;
+&lt;p&gt;지금의 페이지는 Rstudio에서 R notebook 파일로 작성된 후 html 파일로 변경하여 블로그에 올리는 과정을 통해 작성 되었습니다.&lt;/p&gt;
+&lt;p&gt;예제 코드 :&lt;/p&gt;
+&lt;pre class=&quot;r&quot;&gt;&lt;code&gt;coin_list = c(500, 100, 50, 10)
+
+num_cases &amp;lt;- function(money, coin){
+  if (money == coin){
+    return(1)
+  } else if (money &amp;lt; coin){
+    return(0)
+  } else {
+    return(sum(sapply(coin_list[coin_list &amp;lt;= coin], 
+                      FUN = num_cases, 
+                      money = money - coin)))
+  }
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;함수 실행 결과 확인하기&lt;/p&gt;
+&lt;pre class=&quot;r&quot;&gt;&lt;code&gt;num_cases(money = 120, coin = 100)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 1&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;참고로 함수 내의 &lt;code&gt;sapply&lt;/code&gt;는 다음의 원리를 통해 작동하게 됩니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;먼저 &lt;code&gt;sapply&lt;/code&gt;에 적용되는 함수는 &lt;code&gt;FUN = num_cases&lt;/code&gt;이므로 &lt;code&gt;num_cases&lt;/code&gt;는 일종의 recursive 함수라는 것을 알 수 있습니다.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;한편 &lt;code&gt;sapply&lt;/code&gt;가 적용되는 벡터는 &lt;code&gt;sapply&lt;/code&gt;의 첫번째 인자인 &lt;code&gt;coin_list[coin_list &amp;lt;= coin]&lt;/code&gt;입니다.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;coin_list&lt;/code&gt;는 함수 내에는 정의되지 않고, 전역 변수로서 존재합니다.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;마지막으로 &lt;code&gt;money = money - coin&lt;/code&gt;는 &lt;code&gt;num_cases&lt;/code&gt; 함수의 첫번째 인자인 &lt;code&gt;money&lt;/code&gt;가 되겠습니다.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;정리하자면 함수 내의 ``sapply&lt;code&gt;는&lt;/code&gt;num_cases&lt;code&gt;함수를&lt;/code&gt;coin_list[coin_list &amp;lt;= coin]&lt;code&gt;의 각각의 원소에 적용하는데, 이 때&lt;/code&gt;coin_list[coin_list &amp;lt;= coin]&lt;code&gt;는&lt;/code&gt;num_cases``` 함수의 두번째 인자입니다.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;따라서 &lt;code&gt;num_cases&lt;/code&gt; 함수의 첫번째 인자도 추가적으로 명시해야 하는데, 그것이 &lt;code&gt;sapply&lt;/code&gt;의 마지막 인자인 &lt;code&gt;money = money - coin&lt;/code&gt;가 됩니다.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>R vs. Python</title>
+   <link href="http://localhost:4000/it/2017/04/11/R-Python/"/>
+   <updated>2017-04-11T00:00:00+09:00</updated>
+   <id>http://localhost:4000/it/2017/04/11/R-Python</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.itworld.co.kr/news/104306&quot;&gt;Python과 R에 대한 비교&lt;/a&gt; 이야기입니다.
+한 번 가볍게 읽어보시길.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hadley Wickham의 홈페이지</title>
+   <link href="http://localhost:4000/it/2017/04/10/Wickham/"/>
+   <updated>2017-04-10T00:00:00+09:00</updated>
+   <id>http://localhost:4000/it/2017/04/10/Wickham</id>
+   <content type="html">&lt;p&gt;Rstudio의 Chief Scientist인 &lt;a href=&quot;http://hadley.nz/&quot;&gt;Hadley Wickham의 홈페이지&lt;/a&gt;를 소개합니다.&lt;/p&gt;
+
+&lt;p&gt;홈페이지 자체에는 많은 콘텐츠가 있는 것은 아니지만, TEACHING 부분의 책 링크들을 클릭해 보면 그 중 일부는 인터넷을 통해 자유롭게 읽어 볼 수 있도록 되어 있습니다.
+R 프로그래밍을 정말 잘 하시는 분일 뿐더러, 설명도 잘 되어 있으니 R 프로그래밍에 어느 정도 익숙해진 학생들이라면 꼭 챙겨 보길 바랍니다.
+특해 R 프로그래밍을 전문적으로 이해하고 싶은 학생은 “Advanced R” 책을 추천합니다.&lt;/p&gt;
+
+&lt;p&gt;관련 기사 : &lt;a href=&quot;https://priceonomics.com/hadley-wickham-the-man-who-revolutionized-r/&quot;&gt;Hadley Wickham은 어떻게 R을 변혁하였는가?&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>커넥트 재단의 강의 동영상</title>
+   <link href="http://localhost:4000/%ED%86%B5%EA%B3%84/%ED%99%95%EB%A5%A0/2017/04/07/%EC%BB%A4%EB%84%A5%ED%8A%B8/"/>
+   <updated>2017-04-07T00:00:00+09:00</updated>
+   <id>http://localhost:4000/%ED%86%B5%EA%B3%84/%ED%99%95%EB%A5%A0/2017/04/07/커넥트</id>
+   <content type="html">&lt;p&gt;네이버의 커넥트 재단에서 제공하는 강의 동영상을 소개해 드립니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://tv.naver.com/connect&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;저는 이 중에서 “확률론의 선과 악” 강의를 보았는데 재밌었습니다.&lt;br /&gt;
+여유있을 때 여러분들도 한 번 시도해 보시길.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>책 소개 - 천재들의 주사위(The Lady Tasting Tea)</title>
@@ -113,7 +190,8 @@ Python 코드를 작성 후 마찬가지로 화살표 버튼을 클릭하면 실
 &lt;p&gt;&lt;img src=&quot;https://github.com/ksublee/ksublee.github.io/blob/master/_posts/figure/code_result.png?raw=true&quot; alt=&quot;Drawing&quot; style=&quot;max-width: 100%; height: auto;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;마지막으로 File -&amp;gt; Rename을 통하여 적정한 이름으로 저장합니다. &lt;br /&gt;
-Notebook 윗 쪽의 Untitled을 클릭해도 이름을 변경할 수 있습니다.&lt;/p&gt;
+Notebook 윗 쪽의 Untitled을 클릭해도 이름을 변경할 수 있습니다.&lt;br /&gt;
+저장된 파일은 윈도우 탐색기를 통하여 확인할 수 있습니다.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://gist.github.com/ihoneymon/652be052a0727ad59601&quot;&gt;Markdown 문서 더 살펴보기&lt;/a&gt;&lt;/p&gt;
 

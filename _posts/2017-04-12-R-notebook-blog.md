@@ -31,7 +31,7 @@ num_cases &lt;- function(money, coin){
 <li><p>한편 <code>sapply</code>가 적용되는 벡터는 <code>sapply</code>의 첫번째 인자인 <code>coin_list[coin_list &lt;= coin]</code>입니다.</p></li>
 <li><p><code>coin_list</code>는 함수 내에는 정의되지 않고, 전역 변수로서 존재합니다.</p></li>
 <li><p>마지막으로 <code>money = money - coin</code>는 <code>num_cases</code> 함수의 첫번째 인자인 <code>money</code>가 되겠습니다.</p></li>
-<li><p>정리하자면 함수 내의 ``sapply<code>는</code>num_cases<code>함수를</code>coin_list[coin_list &lt;= coin]<code>의 각각의 원소에 적용하는데, 이 때</code>coin_list[coin_list &lt;= coin]<code>는</code>num_cases``` 함수의 두번째 인자입니다.</p></li>
+<li><p>정리하자면 함수 내의 <code>sapply</code>는 <code>num_cases</code>함수를 <code>coin_list[coin_list &lt;= coin]</code>의 각각의 원소에 적용하는데, 이 때<code>coin_list[coin_list &lt;= coin]</code>는 <code>num_cases</code> 함수의 두번째 인자입니다.</p></li>
 <li><p>따라서 <code>num_cases</code> 함수의 첫번째 인자도 추가적으로 명시해야 하는데, 그것이 <code>sapply</code>의 마지막 인자인 <code>money = money - coin</code>가 됩니다.</p></li>
 </ul>
 

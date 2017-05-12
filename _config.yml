@@ -24,3 +24,7 @@ github:
 
 # Gems
 gems: [jekyll-paginate]
+
+
+# Google analytics
+google_analytics: UA-99012760-1

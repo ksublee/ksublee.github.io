@@ -1,7 +1,7 @@
 ---
 layout: post
 title: R noteboook을 이용한 블로그 
-categories : IT
+categories : Data Science
 tags: [R]
 ---
 

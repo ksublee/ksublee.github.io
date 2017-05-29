@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cheat Sheet 모음
-categories : IT
+categories : Data Science
 tags : [R, Python, SQL, GitHub]
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jupyter Notebook
+title: Data Science
 categories : IT
 tags: [Python, Markdown]
 ---

@@ -42,7 +42,7 @@ description: "Kyungsub Lee, Professor of Statistics at Yeungnam University. Rese
 <li>Stochastic processes</li>
 <li>Financial market dynamics</li>
 <li>Volatility and long memory</li>
-<li>Hawkes and point processes</li>
+<li>Point processes and intensity models</li>
 </ul>
 </aside>
 </div>

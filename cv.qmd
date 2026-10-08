@@ -70,7 +70,7 @@ description: "Academic appointments, education, research interests, and publicat
 <li>Stochastic processes</li>
 <li>Financial market dynamics</li>
 <li>Volatility and long memory</li>
-<li>Hawkes and point processes</li>
+<li>Point processes and intensity models</li>
 </ul>
 <h2>Journal articles</h2>
 <!-- generated:journal:start -->

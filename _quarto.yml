@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - .nojekyll
+  pre-render:
+    - python build.py
+  render:
+    - index.qmd
+    - research.qmd
+    - teaching.qmd
+    - software.qmd
+    - cv.qmd
+website:
+  title: "Kyungsub Lee"
+format:
+  html:
+    theme: none
+    css: styles.css
+    toc: false
+    page-layout: full
+    anchor-sections: false
+lang: en

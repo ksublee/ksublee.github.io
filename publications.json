@@ -1,0 +1,195 @@
+[
+  {
+    "title": "Forecasting duration in high‐frequency financial data using a self‐exciting flexible residual point process",
+    "year": 2026,
+    "journal": "Journal of Forecasting",
+    "url": "https://doi.org/10.1002/for.70209",
+    "arxiv": "https://arxiv.org/abs/2604.00346"
+  },
+  {
+    "title": "Price predictability in limit order book with deep learning model",
+    "year": 2026,
+    "journal": "Applied Economics Letters",
+    "url": "https://doi.org/10.1080/13504851.2024.2409330",
+    "arxiv": "https://arxiv.org/abs/2409.14157"
+  },
+  {
+    "title": "Self and mutually exciting point process embedding flexible residuals and intensity with discretely Markovian dynamics",
+    "year": 2025,
+    "journal": "Methodology and Computing in Applied Probability",
+    "url": "https://doi.org/10.1007/s11009-025-10159-5",
+    "arxiv": "https://arxiv.org/abs/2401.13890"
+  },
+  {
+    "title": "Application of Hawkes volatility in the observation of filtered high‐frequency price process in tick structures",
+    "year": 2024,
+    "journal": "Applied Stochastic Models in Business and Industry",
+    "url": "https://doi.org/10.1002/asmb.2892",
+    "arxiv": "https://arxiv.org/abs/2207.05939"
+  },
+  {
+    "title": "Multi-kernel property in high-frequency price dynamics under Hawkes model",
+    "year": 2024,
+    "journal": "Studies in Nonlinear Dynamics & Econometrics",
+    "url": "https://doi.org/10.1515/snde-2022-0049",
+    "arxiv": "https://arxiv.org/abs/2302.11822"
+  },
+  {
+    "title": "Modeling bid and ask price dynamics with an extended Hawkes process and its empirical applications for high-frequency stock market data",
+    "year": 2023,
+    "journal": "Journal of Financial Econometrics",
+    "url": "https://doi.org/10.1093/jjfinec/nbab029",
+    "coauthors": [
+      "Byoung Ki Seo"
+    ],
+    "arxiv": "https://arxiv.org/abs/2201.10173"
+  },
+  {
+    "title": "Recurrent neural network based parameter estimation of Hawkes model on high-frequency financial data",
+    "year": 2023,
+    "journal": "Finance Research Letters",
+    "url": "https://doi.org/10.1016/j.frl.2023.103922",
+    "arxiv": "https://arxiv.org/abs/2304.11883"
+  },
+  {
+    "title": "Optimal market-making strategies under synchronised order arrivals with deep neural networks",
+    "year": 2021,
+    "journal": "Journal of Economic Dynamics and Control",
+    "url": "https://doi.org/10.1016/j.jedc.2021.104098",
+    "coauthors": [
+      "So Eun Choi",
+      "Hyun Jin Jang",
+      "Harry Zheng"
+    ]
+  },
+  {
+    "title": "Analytic formula for option margin with liquidity costs under dynamic delta hedging",
+    "year": 2021,
+    "journal": "Applied Economics",
+    "url": "https://doi.org/10.1080/00036846.2021.1881430",
+    "coauthors": [
+      "Byoung Ki Seo"
+    ],
+    "arxiv": "https://arxiv.org/abs/2103.15302"
+  },
+  {
+    "title": "Computational method for probability distribution on recursive relationships in financial applications",
+    "year": 2020,
+    "journal": "Probability in the Engineering and Informational Sciences",
+    "url": "https://doi.org/10.1017/S0269964818000517",
+    "coauthors": [
+      "Jong Jun Park"
+    ],
+    "arxiv": "https://arxiv.org/abs/1908.04959"
+  },
+  {
+    "title": "Systemic risk in market microstructure of crude oil and gasoline futures prices: a Hawkes flocking model approach",
+    "year": 2020,
+    "journal": "Journal of Futures Markets",
+    "url": "https://doi.org/10.1002/fut.22048",
+    "coauthors": [
+      "Hyun Jin Jang",
+      "Kiseop Lee"
+    ],
+    "arxiv": "https://arxiv.org/abs/2012.04181"
+  },
+  {
+    "title": "Tree based ensemble model for developing and evaluating automated valuation models: the case of Seoul residential apartment",
+    "year": 2020,
+    "journal": "Journal of the Korean Data & Information Science Society",
+    "url": "https://doi.org/10.7465/jkdi.2020.31.2.375",
+    "coauthors": [
+      "Inho Kim"
+    ]
+  },
+  {
+    "title": "Filtered historical simulation for initial margin of interest rate swap under Korean market",
+    "year": 2018,
+    "journal": "Emerging Markets Finance and Trade",
+    "url": "https://doi.org/10.1080/1540496X.2018.1456917",
+    "coauthors": [
+      "Byoung Ki Seo"
+    ]
+  },
+  {
+    "title": "Marked Hawkes process modeling of price dynamics and volatility estimation",
+    "year": 2017,
+    "journal": "Journal of Empirical Finance",
+    "url": "https://doi.org/10.1016/j.jempfin.2016.08.004",
+    "coauthors": [
+      "Byoung Ki Seo"
+    ],
+    "arxiv": "https://arxiv.org/abs/1907.12025"
+  },
+  {
+    "title": "Modeling microstructure price dynamics with symmetric Hawkes and diffusion model using ultra-high-frequency stock data",
+    "year": 2017,
+    "journal": "Journal of Economic Dynamics and Control",
+    "url": "https://doi.org/10.1016/j.jedc.2017.04.004",
+    "coauthors": [
+      "Byoung Ki Seo"
+    ],
+    "arxiv": "https://arxiv.org/abs/1908.05089"
+  },
+  {
+    "title": "Performance of tail hedged portfolio with third moment variation swap",
+    "year": 2017,
+    "journal": "Computational Economics",
+    "url": "https://doi.org/10.1007/s10614-016-9593-0",
+    "coauthors": [
+      "Byoung Ki Seo"
+    ],
+    "arxiv": "https://arxiv.org/abs/1908.05105"
+  },
+  {
+    "title": "Risk-neutral option pricing under GARCH intensity model",
+    "year": 2017,
+    "journal": "International Journal of Pure and Applied Mathematics",
+    "url": "https://doi.org/10.12732/ijpam.v114i3.17",
+    "arxiv": "https://arxiv.org/abs/1908.05405"
+  },
+  {
+    "title": "Distribution of discrete time delta-hedging error via a recursive relation",
+    "year": 2016,
+    "journal": "East Asian Journal on Applied Mathematics",
+    "url": "https://doi.org/10.4208/eajam.010116.220516a",
+    "coauthors": [
+      "Minseok Park",
+      "Geon Ho Choe"
+    ]
+  },
+  {
+    "title": "Probabilistic and statistical properties of moment variations and their use in inference and estimation based on high frequency return data",
+    "year": 2016,
+    "journal": "Studies in Nonlinear Dynamics and Econometrics",
+    "url": "https://doi.org/10.1515/snde-2014-0037",
+    "arxiv": "https://arxiv.org/abs/1311.5036"
+  },
+  {
+    "title": "Conditional correlation in asset return and GARCH intensity model",
+    "year": 2014,
+    "journal": "AStA Advances in Statistical Analysis",
+    "url": "https://doi.org/10.1007/s10182-013-0219-8",
+    "coauthors": [
+      "Geon Ho Choe"
+    ],
+    "arxiv": "https://arxiv.org/abs/1311.4977"
+  },
+  {
+    "title": "High moment variations and their application",
+    "year": 2014,
+    "journal": "Journal of Futures Markets",
+    "url": "https://doi.org/10.1002/fut.21635",
+    "coauthors": [
+      "Geon Ho Choe"
+    ],
+    "arxiv": "https://arxiv.org/abs/1311.4973"
+  },
+  {
+    "title": "Recursive formula for arithmetic Asian option prices",
+    "year": 2014,
+    "journal": "Journal of Futures Markets",
+    "url": "https://doi.org/10.1002/fut.21591",
+    "arxiv": "https://arxiv.org/abs/1311.4969"
+  }
+]

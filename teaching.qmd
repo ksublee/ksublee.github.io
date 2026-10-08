@@ -1,0 +1,87 @@
+---
+title: "Teaching"
+description: "Undergraduate and graduate courses taught by Kyungsub Lee, with open financial statistics materials."
+---
+
+```{=html}
+<a class="skip" href="#main-content">Skip to content</a>
+<header class="site-header">
+<nav class="navwrap" aria-label="Main navigation">
+<a class="brand" href="index.html">Kyungsub Lee</a>
+<div class="navlinks">
+<a href="index.html" >Home</a>
+<a href="research.html" >Research</a>
+<a href="teaching.html" aria-current="page">Teaching</a>
+<a href="software.html" >Software</a>
+<a href="cv.html" >CV</a>
+</div>
+</nav>
+</header>
+<main class="main" id="main-content" tabindex="-1">
+<p class="eyebrow">Teaching</p>
+<h1>Teaching &amp; learning resources</h1>
+<p class="lede">Courses in statistics, programming, financial modelling, and machine learning.</p>
+<section class="resource">
+<h3>Financial Statistics <span lang="ko">(금융통계학)</span>
+</h3>
+<p>Open course materials covering financial returns, volatility models, Value at Risk, and simulation methods.</p>
+<a href="https://github.com/ksublee/finstat">Course materials on GitHub ↗</a>
+</section>
+<h2>Undergraduate courses</h2>
+<ul class="course-list">
+<li>Applied Statistics <span lang="ko">(응용통계학)</span>
+</li>
+<li>Big Data Analytics <span lang="ko">(빅데이터분석)</span>
+</li>
+<li>Design and Analysis of Experiments <span lang="ko">(실험설계와분석)</span>
+</li>
+<li>Financial Statistics <span lang="ko">(금융통계학)</span>
+</li>
+<li>Introduction to Financial Statistics <span lang="ko">(금융통계학입문)</span>
+</li>
+<li>Introduction to Statistics <span lang="ko">(통계학(1))</span>
+</li>
+<li>Programming for Statistics <span lang="ko">(통계프로그래밍)</span>
+</li>
+<li>Statistical Database <span lang="ko">(통계데이터베이스)</span>
+</li>
+<li>Statistical Learning <span lang="ko">(통계적기계학습)</span>
+</li>
+<li>Statistical Machine Learning <span lang="ko">(통계머신러닝)</span>
+</li>
+<li>Statistics Capstone Design <span lang="ko">(통계캡스톤디자인)</span>
+</li>
+<li>Stochastic Simulations <span lang="ko">(확률시뮬레이션)</span>
+</li>
+</ul>
+<h2>Graduate courses</h2>
+<ul class="course-list">
+<li>Advanced Big Data Analytics <span lang="ko">(고급빅데이터분석)</span>
+</li>
+<li>Applications of Machine Learning <span lang="ko">(머신러닝의활용)</span>
+</li>
+<li>Big Data and Data Mining <span lang="ko">(빅데이터와데이터마이닝)</span>
+</li>
+<li>Financial Stochastic Modelling <span lang="ko">(금융확률모형)</span>
+</li>
+<li>Machine Learning Project in Education <span lang="ko">(교육머신러닝프로젝트)</span>
+</li>
+<li>Statistical Data Analysis <span lang="ko">(통계자료분석)</span>
+</li>
+<li>Statistical Package Design <span lang="ko">(통계패키지설계)</span>
+</li>
+<li>Stochastic Processes <span lang="ko">(확률과정)</span>
+</li>
+</ul>
+<h2>For students</h2>
+<p>For questions about courses and learning materials, please contact <a href="mailto:ksublee@yu.ac.kr">ksublee@yu.ac.kr</a>.</p>
+</main>
+<footer class="site-footer">
+<div class="footerwrap">
+<span>Kyungsub Lee · Yeungnam University</span>
+<span>
+<a href="https://orcid.org/0000-0001-9499-0671">ORCID 0000-0001-9499-0671</a>
+</span>
+</div>
+</footer>
+```

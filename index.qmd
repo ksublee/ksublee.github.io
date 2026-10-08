@@ -1,0 +1,119 @@
+---
+title: "Home"
+description: "Kyungsub Lee, Professor of Statistics at Yeungnam University. Research in financial time series, point processes, and volatility."
+---
+
+```{=html}
+<a class="skip" href="#main-content">Skip to content</a>
+<header class="site-header">
+<nav class="navwrap" aria-label="Main navigation">
+<a class="brand" href="index.html">Kyungsub Lee</a>
+<div class="navlinks">
+<a href="index.html" aria-current="page">Home</a>
+<a href="research.html" >Research</a>
+<a href="teaching.html" >Teaching</a>
+<a href="software.html" >Software</a>
+<a href="cv.html" >CV</a>
+</div>
+</nav>
+</header>
+<main class="main" id="main-content" tabindex="-1">
+<div class="hero">
+<section>
+<p class="eyebrow">Statistics · Financial modelling</p>
+<h1>Kyungsub Lee<span class="korean" lang="ko">이경섭</span>
+</h1>
+<p class="role">Professor, Department of Statistics<br>Yeungnam University</p>
+<p>I use probability and statistics to understand the dynamics of financial markets, exploring the mathematical structures underlying randomness and uncertainty.</p>
+<!-- Preserve the research philosophy paragraph exactly as written. -->
+<p>I pursue research out of personal curiosity, with the hope of contributing to better ways of advancing human understanding.</p>
+<div class="profilelinks">
+<a href="https://scholar.google.com/citations?user=ucjucwwAAAAJ">Google Scholar ↗</a>
+<a href="https://orcid.org/0000-0001-9499-0671">ORCID ↗</a>
+<a href="https://github.com/ksublee">GitHub ↗</a>
+</div>
+</section>
+<aside class="contact">
+<h3>Contact</h3>
+<a href="mailto:ksublee@yu.ac.kr">ksublee@yu.ac.kr</a>
+<p>Department of Statistics<br>Yeungnam University<br>Gyeongsan, Republic of Korea</p>
+<h3>Research interests</h3>
+<ul class="interests">
+<li>Stochastic processes</li>
+<li>Financial market dynamics</li>
+<li>Volatility and long memory</li>
+<li>Hawkes and point processes</li>
+</ul>
+</aside>
+</div>
+<div class="divider">
+</div>
+<h2>Research themes</h2>
+<div class="areas">
+<section class="area">
+<h3>Events &amp; market dynamics</h3>
+<p>Point-process models of price changes, order arrivals, and durations in high-frequency financial markets.</p>
+</section>
+<section class="area">
+<h3>Volatility &amp; memory</h3>
+<p>GARCH-type models, persistent volatility, and finite-dimensional representations of slowly decaying dynamics.</p>
+</section>
+<section class="area">
+<h3>Inference &amp; computation</h3>
+<p>Statistical estimation and simulation for financial data and risk measurement.</p>
+</section>
+</div>
+<h2>Recent publications</h2>
+<!-- generated:recent:start -->
+<article class="pub"><div class="year">2026</div><div>
+<h3><a href="https://doi.org/10.1002/for.70209">Forecasting duration in high‐frequency financial data using a self‐exciting flexible residual point process</a></h3>
+<p>Journal of Forecasting</p>
+<a class="paperlink" href="https://doi.org/10.1002/for.70209">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/2604.00346">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2026</div><div>
+<h3><a href="https://doi.org/10.1080/13504851.2024.2409330">Price predictability in limit order book with deep learning model</a></h3>
+<p>Applied Economics Letters</p>
+<a class="paperlink" href="https://doi.org/10.1080/13504851.2024.2409330">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/2409.14157">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2025</div><div>
+<h3><a href="https://doi.org/10.1007/s11009-025-10159-5">Self and mutually exciting point process embedding flexible residuals and intensity with discretely Markovian dynamics</a></h3>
+<p>Methodology and Computing in Applied Probability</p>
+<a class="paperlink" href="https://doi.org/10.1007/s11009-025-10159-5">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/2401.13890">arXiv ↗</a>
+</div></article>
+<!-- generated:recent:end -->
+<p>
+<a href="research.html">View all publications →</a>
+</p>
+<h2>Working papers</h2>
+<!-- generated:working:start -->
+<article class="pub"><div class="year">2026</div><div>
+<h3><a href="https://arxiv.org/abs/2609.06422">Asymmetric long-memory GARCH: sign-dependent kernel injection in a two-dimensional Markov chain</a></h3>
+<p class="coauthors">with Kennedy Titus Kayaki</p>
+<p>Working paper</p>
+<a class="paperlink" href="https://arxiv.org/abs/2609.06422">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2026</div><div>
+<h3><a href="https://arxiv.org/abs/2607.25189">Long-memory GARCH via a two-dimensional Markov chain</a></h3>
+<p class="coauthors">with Kennedy Titus Kayaki</p>
+<p>Working paper</p>
+<a class="paperlink" href="https://arxiv.org/abs/2607.25189">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2026</div><div>
+<h3><a href="https://arxiv.org/abs/2607.20838">Long-memory Markov chains with power-law intensities</a></h3>
+<p>Working paper</p>
+<a class="paperlink" href="https://arxiv.org/abs/2607.20838">arXiv ↗</a>
+</div></article>
+<!-- generated:working:end -->
+</main>
+<footer class="site-footer">
+<div class="footerwrap">
+<span>Kyungsub Lee · Yeungnam University</span>
+<span>
+<a href="https://orcid.org/0000-0001-9499-0671">ORCID 0000-0001-9499-0671</a>
+</span>
+</div>
+</footer>
+```

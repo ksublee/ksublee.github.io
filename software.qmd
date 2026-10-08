@@ -1,0 +1,41 @@
+---
+title: "Software"
+description: "Statistical software and research code by Kyungsub Lee, including the emhawkes R package."
+---
+
+```{=html}
+<a class="skip" href="#main-content">Skip to content</a>
+<header class="site-header">
+<nav class="navwrap" aria-label="Main navigation">
+<a class="brand" href="index.html">Kyungsub Lee</a>
+<div class="navlinks">
+<a href="index.html" >Home</a>
+<a href="research.html" >Research</a>
+<a href="teaching.html" >Teaching</a>
+<a href="software.html" aria-current="page">Software</a>
+<a href="cv.html" >CV</a>
+</div>
+</nav>
+</header>
+<main class="main" id="main-content" tabindex="-1">
+<p class="eyebrow">Software</p>
+<h1>Software &amp; code</h1>
+<p class="lede">Tools and materials for reproducible statistical modelling.</p>
+<section class="resource">
+<h3>emhawkes</h3>
+<p>An R package for exponential multivariate Hawkes processes.</p>
+<a href="https://cran.r-project.org/package=emhawkes">Package on CRAN ↗</a>
+<pre>
+<code>install.packages("emhawkes")</code>
+</pre>
+</section>
+</main>
+<footer class="site-footer">
+<div class="footerwrap">
+<span>Kyungsub Lee · Yeungnam University</span>
+<span>
+<a href="https://orcid.org/0000-0001-9499-0671">ORCID 0000-0001-9499-0671</a>
+</span>
+</div>
+</footer>
+```

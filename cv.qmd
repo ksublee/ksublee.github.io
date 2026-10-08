@@ -1,0 +1,248 @@
+---
+title: "CV"
+description: "Academic appointments, education, research interests, and publications of Kyungsub Lee, Yeungnam University."
+---
+
+```{=html}
+<a class="skip" href="#main-content">Skip to content</a>
+<header class="site-header">
+<nav class="navwrap" aria-label="Main navigation">
+<a class="brand" href="index.html">Kyungsub Lee</a>
+<div class="navlinks">
+<a href="index.html" >Home</a>
+<a href="research.html" >Research</a>
+<a href="teaching.html" >Teaching</a>
+<a href="software.html" >Software</a>
+<a href="cv.html" aria-current="page">CV</a>
+</div>
+</nav>
+</header>
+<main class="main" id="main-content" tabindex="-1">
+<p class="eyebrow">Curriculum vitae</p>
+<h1>Kyungsub Lee</h1>
+<p class="role">Professor · Department of Statistics · Yeungnam University</p>
+<p>
+<a href="mailto:ksublee@yu.ac.kr">ksublee@yu.ac.kr</a> · <a href="https://orcid.org/0000-0001-9499-0671">ORCID</a>
+</p>
+<p class="print-link">
+<button type="button" onclick="window.print()">Print / Save as PDF</button>
+</p>
+<h2>Academic appointments</h2>
+<ul class="timeline">
+<li>
+<strong>Professor, Department of Statistics</strong>
+<span>Yeungnam University · September 2026 – present</span>
+</li>
+<li>
+<strong>Associate Professor, Department of Statistics</strong>
+<span>Yeungnam University · September 2021 – August 2026</span>
+</li>
+<li>
+<strong>Assistant Professor, Department of Statistics</strong>
+<span>Yeungnam University · September 2015 – August 2021</span>
+</li>
+<li>
+<strong>Research Scientist, School of Business Administration</strong>
+<span>UNIST · August 2013 – August 2015</span>
+</li>
+<li>
+<strong>Postdoctoral Researcher, Department of Mathematical Sciences</strong>
+<span>KAIST · March 2012 – February 2013</span>
+</li>
+</ul>
+<h2>Education</h2>
+<ul class="timeline">
+<li>
+<strong>Ph.D. in Mathematical Sciences, KAIST</strong>
+<span>2012 · Dissertation: GARCH Intensity Model and New Methods of Option Pricing</span>
+</li>
+<li>
+<strong>M.S. in Mathematical Sciences, KAIST</strong>
+<span>2008</span>
+</li>
+<li>
+<strong>B.S. in Mathematics and Computer Sciences (dual degree), KAIST</strong>
+<span>2006</span>
+</li>
+</ul>
+<h2>Research interests</h2>
+<ul class="interests">
+<li>Stochastic processes</li>
+<li>Financial market dynamics</li>
+<li>Volatility and long memory</li>
+<li>Hawkes and point processes</li>
+</ul>
+<h2>Journal articles</h2>
+<!-- generated:journal:start -->
+<article class="pub"><div class="year">2026</div><div>
+<h3><a href="https://doi.org/10.1002/for.70209">Forecasting duration in high‐frequency financial data using a self‐exciting flexible residual point process</a></h3>
+<p>Journal of Forecasting</p>
+<a class="paperlink" href="https://doi.org/10.1002/for.70209">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/2604.00346">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2026</div><div>
+<h3><a href="https://doi.org/10.1080/13504851.2024.2409330">Price predictability in limit order book with deep learning model</a></h3>
+<p>Applied Economics Letters</p>
+<a class="paperlink" href="https://doi.org/10.1080/13504851.2024.2409330">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/2409.14157">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2025</div><div>
+<h3><a href="https://doi.org/10.1007/s11009-025-10159-5">Self and mutually exciting point process embedding flexible residuals and intensity with discretely Markovian dynamics</a></h3>
+<p>Methodology and Computing in Applied Probability</p>
+<a class="paperlink" href="https://doi.org/10.1007/s11009-025-10159-5">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/2401.13890">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2024</div><div>
+<h3><a href="https://doi.org/10.1002/asmb.2892">Application of Hawkes volatility in the observation of filtered high‐frequency price process in tick structures</a></h3>
+<p>Applied Stochastic Models in Business and Industry</p>
+<a class="paperlink" href="https://doi.org/10.1002/asmb.2892">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/2207.05939">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2024</div><div>
+<h3><a href="https://doi.org/10.1515/snde-2022-0049">Multi-kernel property in high-frequency price dynamics under Hawkes model</a></h3>
+<p>Studies in Nonlinear Dynamics &amp; Econometrics</p>
+<a class="paperlink" href="https://doi.org/10.1515/snde-2022-0049">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/2302.11822">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2023</div><div>
+<h3><a href="https://doi.org/10.1093/jjfinec/nbab029">Modeling bid and ask price dynamics with an extended Hawkes process and its empirical applications for high-frequency stock market data</a></h3>
+<p class="coauthors">with Byoung Ki Seo</p>
+<p>Journal of Financial Econometrics</p>
+<a class="paperlink" href="https://doi.org/10.1093/jjfinec/nbab029">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/2201.10173">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2023</div><div>
+<h3><a href="https://doi.org/10.1016/j.frl.2023.103922">Recurrent neural network based parameter estimation of Hawkes model on high-frequency financial data</a></h3>
+<p>Finance Research Letters</p>
+<a class="paperlink" href="https://doi.org/10.1016/j.frl.2023.103922">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/2304.11883">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2021</div><div>
+<h3><a href="https://doi.org/10.1016/j.jedc.2021.104098">Optimal market-making strategies under synchronised order arrivals with deep neural networks</a></h3>
+<p class="coauthors">with So Eun Choi, Hyun Jin Jang, and Harry Zheng</p>
+<p>Journal of Economic Dynamics and Control</p>
+<a class="paperlink" href="https://doi.org/10.1016/j.jedc.2021.104098">Article ↗</a>
+</div></article>
+<article class="pub"><div class="year">2021</div><div>
+<h3><a href="https://doi.org/10.1080/00036846.2021.1881430">Analytic formula for option margin with liquidity costs under dynamic delta hedging</a></h3>
+<p class="coauthors">with Byoung Ki Seo</p>
+<p>Applied Economics</p>
+<a class="paperlink" href="https://doi.org/10.1080/00036846.2021.1881430">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/2103.15302">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2020</div><div>
+<h3><a href="https://doi.org/10.1017/S0269964818000517">Computational method for probability distribution on recursive relationships in financial applications</a></h3>
+<p class="coauthors">with Jong Jun Park</p>
+<p>Probability in the Engineering and Informational Sciences</p>
+<a class="paperlink" href="https://doi.org/10.1017/S0269964818000517">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/1908.04959">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2020</div><div>
+<h3><a href="https://doi.org/10.1002/fut.22048">Systemic risk in market microstructure of crude oil and gasoline futures prices: a Hawkes flocking model approach</a></h3>
+<p class="coauthors">with Hyun Jin Jang and Kiseop Lee</p>
+<p>Journal of Futures Markets</p>
+<a class="paperlink" href="https://doi.org/10.1002/fut.22048">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/2012.04181">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2020</div><div>
+<h3><a href="https://doi.org/10.7465/jkdi.2020.31.2.375">Tree based ensemble model for developing and evaluating automated valuation models: the case of Seoul residential apartment</a></h3>
+<p class="coauthors">with Inho Kim</p>
+<p>Journal of the Korean Data &amp; Information Science Society</p>
+<a class="paperlink" href="https://doi.org/10.7465/jkdi.2020.31.2.375">Article ↗</a>
+</div></article>
+<article class="pub"><div class="year">2018</div><div>
+<h3><a href="https://doi.org/10.1080/1540496X.2018.1456917">Filtered historical simulation for initial margin of interest rate swap under Korean market</a></h3>
+<p class="coauthors">with Byoung Ki Seo</p>
+<p>Emerging Markets Finance and Trade</p>
+<a class="paperlink" href="https://doi.org/10.1080/1540496X.2018.1456917">Article ↗</a>
+</div></article>
+<article class="pub"><div class="year">2017</div><div>
+<h3><a href="https://doi.org/10.1016/j.jempfin.2016.08.004">Marked Hawkes process modeling of price dynamics and volatility estimation</a></h3>
+<p class="coauthors">with Byoung Ki Seo</p>
+<p>Journal of Empirical Finance</p>
+<a class="paperlink" href="https://doi.org/10.1016/j.jempfin.2016.08.004">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/1907.12025">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2017</div><div>
+<h3><a href="https://doi.org/10.1016/j.jedc.2017.04.004">Modeling microstructure price dynamics with symmetric Hawkes and diffusion model using ultra-high-frequency stock data</a></h3>
+<p class="coauthors">with Byoung Ki Seo</p>
+<p>Journal of Economic Dynamics and Control</p>
+<a class="paperlink" href="https://doi.org/10.1016/j.jedc.2017.04.004">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/1908.05089">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2017</div><div>
+<h3><a href="https://doi.org/10.1007/s10614-016-9593-0">Performance of tail hedged portfolio with third moment variation swap</a></h3>
+<p class="coauthors">with Byoung Ki Seo</p>
+<p>Computational Economics</p>
+<a class="paperlink" href="https://doi.org/10.1007/s10614-016-9593-0">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/1908.05105">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2017</div><div>
+<h3><a href="https://doi.org/10.12732/ijpam.v114i3.17">Risk-neutral option pricing under GARCH intensity model</a></h3>
+<p>International Journal of Pure and Applied Mathematics</p>
+<a class="paperlink" href="https://doi.org/10.12732/ijpam.v114i3.17">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/1908.05405">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2016</div><div>
+<h3><a href="https://doi.org/10.4208/eajam.010116.220516a">Distribution of discrete time delta-hedging error via a recursive relation</a></h3>
+<p class="coauthors">with Minseok Park and Geon Ho Choe</p>
+<p>East Asian Journal on Applied Mathematics</p>
+<a class="paperlink" href="https://doi.org/10.4208/eajam.010116.220516a">Article ↗</a>
+</div></article>
+<article class="pub"><div class="year">2016</div><div>
+<h3><a href="https://doi.org/10.1515/snde-2014-0037">Probabilistic and statistical properties of moment variations and their use in inference and estimation based on high frequency return data</a></h3>
+<p>Studies in Nonlinear Dynamics and Econometrics</p>
+<a class="paperlink" href="https://doi.org/10.1515/snde-2014-0037">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/1311.5036">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2014</div><div>
+<h3><a href="https://doi.org/10.1007/s10182-013-0219-8">Conditional correlation in asset return and GARCH intensity model</a></h3>
+<p class="coauthors">with Geon Ho Choe</p>
+<p>AStA Advances in Statistical Analysis</p>
+<a class="paperlink" href="https://doi.org/10.1007/s10182-013-0219-8">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/1311.4977">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2014</div><div>
+<h3><a href="https://doi.org/10.1002/fut.21635">High moment variations and their application</a></h3>
+<p class="coauthors">with Geon Ho Choe</p>
+<p>Journal of Futures Markets</p>
+<a class="paperlink" href="https://doi.org/10.1002/fut.21635">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/1311.4973">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2014</div><div>
+<h3><a href="https://doi.org/10.1002/fut.21591">Recursive formula for arithmetic Asian option prices</a></h3>
+<p>Journal of Futures Markets</p>
+<a class="paperlink" href="https://doi.org/10.1002/fut.21591">Article ↗</a>
+<span aria-hidden="true"> · </span> <a class="paperlink" href="https://arxiv.org/abs/1311.4969">arXiv ↗</a>
+</div></article>
+<!-- generated:journal:end -->
+<h2>Working papers</h2>
+<!-- generated:working:start -->
+<article class="pub"><div class="year">2026</div><div>
+<h3><a href="https://arxiv.org/abs/2609.06422">Asymmetric long-memory GARCH: sign-dependent kernel injection in a two-dimensional Markov chain</a></h3>
+<p class="coauthors">with Kennedy Titus Kayaki</p>
+<p>Working paper</p>
+<a class="paperlink" href="https://arxiv.org/abs/2609.06422">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2026</div><div>
+<h3><a href="https://arxiv.org/abs/2607.25189">Long-memory GARCH via a two-dimensional Markov chain</a></h3>
+<p class="coauthors">with Kennedy Titus Kayaki</p>
+<p>Working paper</p>
+<a class="paperlink" href="https://arxiv.org/abs/2607.25189">arXiv ↗</a>
+</div></article>
+<article class="pub"><div class="year">2026</div><div>
+<h3><a href="https://arxiv.org/abs/2607.20838">Long-memory Markov chains with power-law intensities</a></h3>
+<p>Working paper</p>
+<a class="paperlink" href="https://arxiv.org/abs/2607.20838">arXiv ↗</a>
+</div></article>
+<!-- generated:working:end -->
+</main>
+<footer class="site-footer">
+<div class="footerwrap">
+<span>Kyungsub Lee · Yeungnam University</span>
+<span>
+<a href="https://orcid.org/0000-0001-9499-0671">ORCID 0000-0001-9499-0671</a>
+</span>
+</div>
+</footer>
+```
